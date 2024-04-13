@@ -1,1 +1,2 @@
-Los archivos img van dentro de la carpeta propia img
+Para dar orden
+Agregar los archivos .img dentro de la carpeta propia img
